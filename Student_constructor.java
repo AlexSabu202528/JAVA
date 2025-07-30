@@ -25,7 +25,7 @@ class Student
 		System.out.println("Mark1:"+mark1);
 		System.out.println("Mark2:"+mark2);
 		System.out.println("Mark3:"+mark3);
-		
+		System.out.println("Average:"+avg);
 	}
 
 }
